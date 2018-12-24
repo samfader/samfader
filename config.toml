@@ -31,11 +31,11 @@ pygmentsUseClasses = true
 	# List of sections support disqus comments
 	disqusSections = [ "blog" ]
 	# Site meta description
-	description = "Sweet little Hugo's theme for personal website or blog."
+	description = "Sam Fader's web presence."
 	# Site's Tagline (Subtitle or Keyword)
 	tagline = "Maps, music, and more."
 	# If true give attribution to this theme
-	themeAttrib = true
+	themeAttrib = false
 	# URL to license file, can be outside of your domain
 	licenseURL = "/about/license"
 
